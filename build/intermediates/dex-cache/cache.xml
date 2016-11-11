@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Abid\AndroidStudioProjects\BestRoutePlannerforDhakaCity\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Abid\AndroidStudioProjects\BestRoutePlannerforDhakaCity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_22d3dbb1bb1bd5af64a0a2493273155d3caccfcb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Abid\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Abid\AndroidStudioProjects\BestRoutePlannerforDhakaCity\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_24a132f42cbaccc8c4587c833f7d11d10d970c50\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Abid\AndroidStudioProjects\BestRoutePlannerforDhakaCity\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Abid\AndroidStudioProjects\BestRoutePlannerforDhakaCity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_b7841423c3b442eab7b5c10284b929a787850627\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Abid\AndroidStudioProjects\BestRoutePlannerforDhakaCity\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Abid\AndroidStudioProjects\BestRoutePlannerforDhakaCity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_a4c8659456f2ad883f278577d179c7ecd3e895c8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Abid\AndroidStudioProjects\BestRoutePlannerforDhakaCity\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="595981ae2596a925b7cfb7f94c65fc1b63ae5c81">
+        <dex dex="C:\Users\Abid\AndroidStudioProjects\BestRoutePlannerforDhakaCity\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ab56042be79463ce515aea3af70808ad0ab984da\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Abid\AndroidStudioProjects\BestRoutePlannerforDhakaCity\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Abid\AndroidStudioProjects\BestRoutePlannerforDhakaCity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_d83db34cd0919621b0c28974aa6c37c6e52ae4fc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Abid\AndroidStudioProjects\BestRoutePlannerforDhakaCity\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffe89729ab38bdeb2c4a76dadbb17a9cc7eb27cb">
+        <dex dex="C:\Users\Abid\AndroidStudioProjects\BestRoutePlannerforDhakaCity\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f6ffbf5391d00154fa18fbb00291288454d60c2e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Abid\AndroidStudioProjects\BestRoutePlannerforDhakaCity\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Abid\AndroidStudioProjects\BestRoutePlannerforDhakaCity\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_33b997302d1c26eb4cf93cc4c2c39e50248df948\classes.dex" />
+    </item>
+
+</items>
